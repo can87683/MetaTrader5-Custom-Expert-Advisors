@@ -4,7 +4,7 @@ MetaTrader5 Custom Expert Advisors
 # BSD-C-3 License
 
 # ai_trader.mq5
-An DEMO EA using an ONNX model in files folder for generating signals directly without any other indicators.
+A DEMO EA using an ONNX model in files folder for generating signals directly without any other indicators.
 
 An ONNX model in MQL5\files folder is needed by exporting from a self-trained TFT model on MT5 data (A TFT trainer is available in this URL repo) or a foundation time series model like Amazon-Chronos-2 or Google TimesFM. 
 
