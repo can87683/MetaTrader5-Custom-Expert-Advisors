@@ -6,7 +6,7 @@ MetaTrader5 Custom Expert Advisors
 # ai_trader.mq5
 An EA using an ONNX model in files folder for generating signals directly without any other indicators.
 
-An ONNX model is needed by exporting from a self-trained TFT model on MT5 data or a foundation time series model like Amazon-Chronos-2 or Google TimesFM. 
+An ONNX model in files folder is needed by exporting from a self-trained TFT model on MT5 data (available in this URL repo) or a foundation time series model like Amazon-Chronos-2 or Google TimesFM. 
 
 # Autoset_SL_TP EA
 Two EAs for ND100 and SP500 are provided to auto SL/TP
